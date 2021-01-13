@@ -1,0 +1,49 @@
+body{
+	font-family:sans-serif;
+	margin: 0;
+}
+header{
+	background-color:#1B3F75;
+	color:white;
+	text-align: center;
+}
+h1{
+	display: inline-block;
+	width: 550px;
+}
+h3{
+	font-size:25px;
+	font-weight: bold;
+}
+
+dt{
+	font-size: 22px;
+	text-transform: uppercase;
+	margin-bottom: 12px;
+	margin-top: 36px;
+}
+dd{
+	font-size:110%;
+}
+#myProfession {
+	display: inline-block;
+	width: 500px;
+	font-size: 150%;
+}
+.carreer{
+	background-color:#FF9466;
+	font-size: 110%;
+	font-weight: 300;
+	text-align: center;
+	padding: 5px;
+}
+
+.introduction{
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.cvContent{
+	margin-top:70px;
+}
